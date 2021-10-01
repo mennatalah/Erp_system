@@ -1,0 +1,63 @@
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\bin\Debug\ErpSystem.exe.config
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\bin\Debug\ErpSystem.exe
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\bin\Debug\ErpSystem.pdb
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\bin\Debug\EntityFramework.dll
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\bin\Debug\MaterialDesignColors.dll
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\bin\Debug\EntityFramework.xml
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\obj\Debug\ContantDetails.g.cs
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\obj\Debug\signUP.g.cs
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\obj\Debug\StartWindow.g.cs
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\obj\Debug\App.g.cs
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\obj\Debug\ErpSystem_MarkupCompile.cache
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\obj\Debug\ErpSystem_MarkupCompile.lref
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\obj\Debug\App.baml
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\obj\Debug\ContantDetails.baml
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\obj\Debug\MainWindow.baml
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\obj\Debug\signUP.baml
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\obj\Debug\StartWindow.baml
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\obj\Debug\ErpSystem.g.resources
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\obj\Debug\ErpSystem.Properties.Resources.resources
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\obj\Debug\ErpSystem.csproj.GenerateResource.cache
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\obj\Debug\ErpSystem.csproj.CoreCompileInputs.cache
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\obj\Debug\ErpSystem.csproj.CopyComplete
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\obj\Debug\ErpSystem.exe
+C:\Users\Iway\source\repos\ErpSystem\ErpSystem\obj\Debug\ErpSystem.pdb
+C:\Users\Iway\Desktop\assessment task\ErpSystem\bin\Debug\ErpSystem.exe.config
+C:\Users\Iway\Desktop\assessment task\ErpSystem\bin\Debug\ErpSystem.exe
+C:\Users\Iway\Desktop\assessment task\ErpSystem\bin\Debug\ErpSystem.pdb
+C:\Users\Iway\Desktop\assessment task\ErpSystem\bin\Debug\EntityFramework.dll
+C:\Users\Iway\Desktop\assessment task\ErpSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Iway\Desktop\assessment task\ErpSystem\bin\Debug\MaterialDesignColors.dll
+C:\Users\Iway\Desktop\assessment task\ErpSystem\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Iway\Desktop\assessment task\ErpSystem\bin\Debug\EntityFramework.xml
+C:\Users\Iway\Desktop\assessment task\ErpSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Iway\Desktop\assessment task\ErpSystem\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Iway\Desktop\assessment task\ErpSystem\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Iway\Desktop\assessment task\ErpSystem\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Iway\Desktop\assessment task\ErpSystem\obj\Debug\ErpSystem.csprojAssemblyReference.cache
+C:\Users\Iway\Desktop\assessment task\ErpSystem\obj\Debug\ContantDetails.g.cs
+C:\Users\Iway\Desktop\assessment task\ErpSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Iway\Desktop\assessment task\ErpSystem\obj\Debug\signUP.g.cs
+C:\Users\Iway\Desktop\assessment task\ErpSystem\obj\Debug\StartWindow.g.cs
+C:\Users\Iway\Desktop\assessment task\ErpSystem\obj\Debug\App.g.cs
+C:\Users\Iway\Desktop\assessment task\ErpSystem\obj\Debug\ErpSystem_MarkupCompile.cache
+C:\Users\Iway\Desktop\assessment task\ErpSystem\obj\Debug\ErpSystem_MarkupCompile.lref
+C:\Users\Iway\Desktop\assessment task\ErpSystem\obj\Debug\App.baml
+C:\Users\Iway\Desktop\assessment task\ErpSystem\obj\Debug\ContantDetails.baml
+C:\Users\Iway\Desktop\assessment task\ErpSystem\obj\Debug\MainWindow.baml
+C:\Users\Iway\Desktop\assessment task\ErpSystem\obj\Debug\signUP.baml
+C:\Users\Iway\Desktop\assessment task\ErpSystem\obj\Debug\StartWindow.baml
+C:\Users\Iway\Desktop\assessment task\ErpSystem\obj\Debug\ErpSystem.g.resources
+C:\Users\Iway\Desktop\assessment task\ErpSystem\obj\Debug\ErpSystem.Properties.Resources.resources
+C:\Users\Iway\Desktop\assessment task\ErpSystem\obj\Debug\ErpSystem.csproj.GenerateResource.cache
+C:\Users\Iway\Desktop\assessment task\ErpSystem\obj\Debug\ErpSystem.csproj.CoreCompileInputs.cache
+C:\Users\Iway\Desktop\assessment task\ErpSystem\obj\Debug\ErpSystem.csproj.CopyComplete
+C:\Users\Iway\Desktop\assessment task\ErpSystem\obj\Debug\ErpSystem.exe
+C:\Users\Iway\Desktop\assessment task\ErpSystem\obj\Debug\ErpSystem.pdb

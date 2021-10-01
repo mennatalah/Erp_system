@@ -1,0 +1,81 @@
+﻿<Window x:Class="ErpSystem.StartWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:ErpSystem"
+        mc:Ignorable="d"
+        Title="StartWindow" Height="450" Width="800">
+    <Grid Margin="0,20">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition
+                Width="*"
+                ></ColumnDefinition>
+            <ColumnDefinition
+                Width="3*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0" Background="Orange">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="70"/>
+                <RowDefinition Height="70"/>
+                <RowDefinition Height="70"/>
+                <RowDefinition Height="70"/>
+                <RowDefinition Height="70"/>
+            </Grid.RowDefinitions>
+            <Button
+                Grid.Row="1"
+                x:Name="companiesbtn"
+                Click="companiestn_Click"
+                Foreground="White"
+                Style="{StaticResource MaterialDesignFlatButton}"
+                Content="Companies"
+                IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}" Height="Auto" />
+            <Button
+                Grid.Row="2"
+                x:Name="companiesAdressbtn"
+                Click="companiesAdressbtn_Click"
+                Foreground="White"
+                Style="{StaticResource MaterialDesignFlatButton}"
+                Content="Companies Addresses"
+                IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}" Height="Auto" />
+            <Button
+                Grid.Row="3"
+                x:Name="companiesTelephonbtn"
+                Click="companiesTelephonbtn_Click"
+                Foreground="White"
+                Style="{StaticResource MaterialDesignFlatButton}"
+                Content="Companies Telephones"
+                IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}" Height="Auto" />
+            <Button
+                Grid.Row="0"
+                x:Name="contactbtn"
+                Click="contactbtn_Click"
+                Foreground="White"
+                Style="{StaticResource MaterialDesignFlatButton}"
+                Content="Contacts"
+                IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}" Height="Auto" />
+            <Button
+                Grid.Row="4"
+                x:Name="signOutbtn"
+                Click="signOutbtn_Click"
+                Foreground="White"
+                Style="{StaticResource MaterialDesignFlatButton}"
+                Content="Sign out"
+                IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}" Height="Auto" />
+
+        </Grid>
+        <Grid Grid.Column="1">
+            
+            <DataGrid
+                ItemsSource="{Binding Items2}"
+                x:Name="myGrid"
+                CanUserAddRows="False"
+                SelectionUnit="FullRow"
+                MouseDoubleClick="myGrid_MouseDoubleClick"/>
+
+        </Grid>
+
+       
+    </Grid>
+</Window>
